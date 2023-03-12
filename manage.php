@@ -59,6 +59,7 @@
           <hr>
           <div class="row">
             <div class="col-lg-12">
+              <h1>test</h1>
 
 <?php 
     $select="SELECT * FROM `tblprod_data` WHERE id_autonun='$_GET[productid]'";
